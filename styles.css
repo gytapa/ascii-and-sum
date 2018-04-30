@@ -1,0 +1,64 @@
+body
+{
+    background:#959EE2;
+    color: #FFFFFF;
+}
+.navbar
+{
+    background: #2F3775;
+}
+a
+{
+    color: #FFFFFF;
+}
+a:hover, li:hover
+{
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+
+h1
+{
+    line-height: 150px;
+    padding: 0;
+    margin: 0;
+}
+#container
+{
+    width:1000px;
+    margin: 50px auto;
+}
+
+.home-div
+{
+    width: 50%;
+    height: 150px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+    float: left;
+    background: #A09889;
+}
+
+#ascii-div
+{
+    border-radius: 100px 0 0 100px;
+    border-right: #7c7c7c 2px solid;
+}
+#sum-div
+{
+    border-radius: 0 100px 100px 0;
+    border-left: #7c7c7c 2px solid;
+}
+.active
+{
+    font-weight: bold;
+}
+
+#table
+{
+    font-family: monospace;
+    font-size: 125%;
+}
+
+
